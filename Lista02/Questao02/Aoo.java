@@ -1,4 +1,4 @@
-package Questao02;
+
 import java.util.Scanner;
 
 public class Aoo {

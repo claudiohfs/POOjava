@@ -1,4 +1,4 @@
-package Questao01;
+
 
 import java.util.Scanner;
 
@@ -47,5 +47,6 @@ public class App {
         System.out.println("Pessoa: " + p3.getNome() + " Peso: " + p3.getPeso() + " Altura: " + p3.getAltura() + " IMC: " + p3.calcImc());
         System.out.println("Pessoa: " + p2.getNome() + " Peso: " + p2.getPeso() + " Altura: " + p2.getAltura() + " IMC: " + p2.calcImc());
         System.out.println("Pessoa: " + p1.getNome() + " Peso: " + p1.getPeso() + " Altura: " + p1.getAltura() + " IMC: " + p1.calcImc());
+        sc.close();
     }
 }

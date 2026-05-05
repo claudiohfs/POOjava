@@ -44,5 +44,9 @@ public class ContaBancaria {
         contaDestino.depositar(valor);
 
     }
+    protected void setSaldo(double saldo){
+       
+        this.saldo = saldo;
+    }
 
 }
