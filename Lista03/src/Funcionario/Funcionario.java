@@ -1,4 +1,4 @@
-package Funcionario;
+package src.Funcionario;
 
 public class Funcionario {
 

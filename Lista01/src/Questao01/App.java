@@ -1,4 +1,4 @@
-package Questao01;
+package src.Questao01;
 
 public class App {
 

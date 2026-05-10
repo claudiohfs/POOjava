@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lista01/Lista01.iml" filepath="$PROJECT_DIR$/Lista01/Lista01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista02/Lista02.iml" filepath="$PROJECT_DIR$/Lista02/Lista02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista08/Lista08.iml" filepath="$PROJECT_DIR$/Lista08/Lista08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista06/Lista07/Lista7/Lista7.iml" filepath="$PROJECT_DIR$/Lista06/Lista07/Lista7/Lista7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lsita08/Lsita08.iml" filepath="$PROJECT_DIR$/Lsita08/Lsita08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista07/Qeustao01/Qeustao01.iml" filepath="$PROJECT_DIR$/Lista07/Qeustao01/Qeustao01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista07/Questao1/Questao1.iml" filepath="$PROJECT_DIR$/Lista07/Questao1/Questao1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista07/Questao2/Questao2.iml" filepath="$PROJECT_DIR$/Lista07/Questao2/Questao2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista07/Questao3/Questao3.iml" filepath="$PROJECT_DIR$/Lista07/Questao3/Questao3.iml" />
+    </modules>
+  </component>
+</project>
